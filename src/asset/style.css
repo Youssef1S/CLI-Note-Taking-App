@@ -1,0 +1,15 @@
+h1 {
+  width: 100%;
+  margin: 70px 50%;
+}
+
+body {
+  background-color: linen;
+}
+
+.notes {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  width: 50%;
+  margin: auto;
+}
